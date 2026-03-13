@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sameep Singh</h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS Certified | MERN Developer</h3>
+<h1 align="center"> SAMEEP SINGH</h1>
+<h3 align="center">Cloud Engineer | AWS Certified | MERN Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cloud+Computing+Enthusiast;AWS+Certified+Cloud+Practitioner;DevOps+Engineer;MERN+Stack+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=9D00FF&center=true&vCenter=true&width=600&lines=Cloud+Computing+Enthusiast;AWS+Certified+Cloud+Practitioner;MERN+Stack+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -11,8 +11,8 @@
 
 - 🎓 B.Tech CSE (Cloud Computing & Automation)
 - ☁️ **AWS Certified Cloud Practitioner**
-- ⚙️ Interested in **Cloud Architecture, DevOps & Scalable Systems**
-- 💻 Full Stack Developer (MERN Stack)
+- ⚙️ Interested in **Cloud Architecture, Scalable Systems**
+- 💻 **Full Stack Developer** (MERN Stack)
 - 📊 Currently building **Cloud-based Fleet Management System**
 
 ---
@@ -22,7 +22,7 @@
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
 ### 🌐 Web Development
@@ -34,13 +34,13 @@
 ### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,dynamodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ---
@@ -54,24 +54,9 @@ Cloud-based logistics platform for **real-time vehicle monitoring and analytics*
 AWS IoT Core • DynamoDB • Lambda • Node.js • React
 
 ---
-
-## 📋 DevOps Task Manager
-Task management system automated with **CI/CD pipeline**
-
-**Features**
-- Jenkins automation
-- Docker containerization
-- Monitoring using Graphite & Grafana
-- Automated testing
-
----
-
-## 🍲 Artisanal Food Exchange
-Cloud marketplace connecting **local food producers and consumers**
-
+StockWave – Stock Market Monitoring Platform
 **Tech Stack**
-AWS EC2 • S3 • RDS • DynamoDB • Lambda
-
+ React.js • Node.js • Express.js • Financial Market APIs • JavaScript
 ---
 
 # 🏆 Certifications
@@ -90,28 +75,16 @@ AWS EC2 • S3 • RDS • DynamoDB • Lambda
 
 </p>
 
----
 
-# 📈 GitHub Activity Graph
-
-[![Sameep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sameep-singh&theme=tokyo-night)](https://github.com/sameep-singh)
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/sameep-singh/sameep-singh/blob/output/github-contribution-grid-snake.svg)
-
----
 
 # 🌐 Connect With Me
 
 <p>
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/sameep-singh">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:sameep2203@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 
@@ -120,6 +93,3 @@ AWS EC2 • S3 • RDS • DynamoDB • Lambda
 </a>
 </p>
 
----
-
-⭐ *Always open to collaborating on Cloud, DevOps and Full Stack projects*
