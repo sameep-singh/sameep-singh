@@ -53,10 +53,11 @@ Cloud-based logistics platform for **real-time vehicle monitoring and analytics*
 **Tech Stack**
 AWS IoT Core • DynamoDB • Lambda • Node.js • React
 
----
-StockWave – Stock Market Monitoring Platform
+📈 StockWave : A web platform that tracks and visualizes stock market data, allowing users to monitor price trends and market performance through an interactive dashboard.
 **Tech Stack**
- React.js • Node.js • Express.js • Financial Market APIs • JavaScript
+AWS IoT Core • DynamoDB • Lambda • Node.js • React
+
+
 ---
 
 # 🏆 Certifications
