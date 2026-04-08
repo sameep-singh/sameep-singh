@@ -61,18 +61,6 @@ AWS IoT Core • DynamoDB • Lambda • Node.js • React
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sameep-singh&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameep-singh&layout=compact&theme=tokyonight" />
-
-</p>
-
-
-
 # 🌐 Connect With Me
 
 <p>
